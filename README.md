@@ -28,7 +28,8 @@ AI assistants · RAG pipelines · Telegram bots · DeFi automation · Smart cont
 
 - **[DeFi One](https://mrpkk.github.io/portfolio/decks/defi-one.html)** — AI DeFi Portfolio Manager: the first AI agent that manages your DeFi portfolio with **voice control**.
 - **[Solidity Portfolio](https://mrpkk.github.io/portfolio/decks/solidity-portfolio.html)** — 14 production-grade contracts: RWA, ZK Privacy, Cross-Chain, ERC-4626, ERC-6551.
-- **[Crypto MCP Server](https://mrpkk.github.io/portfolio/decks/crypto-mcp-server.html)** — AI-powered MCP server: 14 tools for prices, yields, technical analysis, gas, whales.
+- **[Crypto MCP Server](https://github.com/mrpkk/crypto-mcp-server)** — AI-powered MCP server: 14 tools for prices, yields, technical analysis, gas, whales. **Open Source (MIT)** ⭐
+- **[AIRealty](https://mrpkk.github.io/portfolio/decks/airealty.html)** — RWA-ready AI platform: Property DNA™ scoring (47 parameters), digital asset passports, Muhurta scheduler — foundation for real estate tokenization.
 - **[On-Chain AI Agent](https://mrpkk.github.io/portfolio/decks/onchain-ai-agent.html)** — autonomous blockchain agents with Ricardian contracts.
 - **[Telegram AI Bot](https://mrpkk.github.io/portfolio/decks/telegram-ai-bot.html)** — production-ready AI assistant with RAG, interactive buttons, admin panel and one-click Excel/CSV report export.
 
