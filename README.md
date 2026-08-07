@@ -24,16 +24,19 @@ AI assistants · RAG pipelines · Telegram bots · DeFi automation · Smart cont
 | 🏠 **RWA (Real-World Assets)** | Tokenization of real assets · AI-powered valuation |
 | 🔍 **Automation & Scraping** | API integrations · content pipelines · monitoring |
 
-## 🚀 Flagship Projects
+## 🚀 Open Source
+
+- **[Crypto MCP Server](https://github.com/mrpkk/crypto-mcp-server)** — AI-powered MCP server: 14 tools for prices, yields, technical analysis, gas, whales. **MIT** ⭐
+- **[On-Chain AI Agent](https://github.com/mrpkk/onchain-ai-agent)** — autonomous blockchain agent: owns an EVM wallet, signs contracts, executes on-chain operations. Perception → reasoning → planning → execution.
+- **[Telegram AI Bot](https://github.com/mrpkk/telegram-ai-bot)** — production-ready AI assistant: RAG, interactive buttons, OCR, crypto commands (/balance /risk /yield), admin panel, Excel/CSV export.
+
+## 🚀 Flagship Projects (private — demo on request)
 
 - **[DeFi One](https://mrpkk.github.io/portfolio/decks/defi-one.html)** — AI DeFi Portfolio Manager: the first AI agent that manages your DeFi portfolio with **voice control**.
 - **[Solidity Portfolio](https://mrpkk.github.io/portfolio/decks/solidity-portfolio.html)** — 14 production-grade contracts: RWA, ZK Privacy, Cross-Chain, ERC-4626, ERC-6551.
-- **[Crypto MCP Server](https://github.com/mrpkk/crypto-mcp-server)** — AI-powered MCP server: 14 tools for prices, yields, technical analysis, gas, whales. **Open Source (MIT)** ⭐
 - **[AIRealty](https://mrpkk.github.io/portfolio/decks/airealty.html)** — RWA-ready AI platform: Property DNA™ scoring (47 parameters), digital asset passports, Muhurta scheduler — foundation for real estate tokenization.
-- **[On-Chain AI Agent](https://mrpkk.github.io/portfolio/decks/onchain-ai-agent.html)** — autonomous blockchain agents with Ricardian contracts.
-- **[Telegram AI Bot](https://mrpkk.github.io/portfolio/decks/telegram-ai-bot.html)** — production-ready AI assistant with RAG, interactive buttons, admin panel and one-click Excel/CSV report export.
 
-> 🔒 Some repos are private (available on request / under NDA) — see [portfolio](https://mrpkk.github.io/portfolio/) for live demos and presentations.
+> 🔒 Product repos are private (available on request / under NDA) — see [portfolio](https://mrpkk.github.io/portfolio/) for live demos and presentations.
 
 ## 🌐 Other Projects
 
