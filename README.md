@@ -28,10 +28,10 @@ Zero-knowledge proofs · AI assistants · RAG pipelines · Telegram bots · DeFi
 
 ## 🚀 Open Source
 
-- **[ṚTA](https://github.com/mrpkk/rta)** — prove a fact without revealing it. Groth16 ZK proofs as a service: 5 threshold circuits (`balance_1000`, `balance_100000`, `stake_10000`, `account_age_180`, `tx_count_50`), replay protection, x402 metering. **31 tests.**
+- **[ṚTA](https://rta.lat)** — prove a fact without revealing it. **Live at [rta.lat](https://rta.lat)** · [repo](https://github.com/mrpkk/rta). Groth16 ZK proofs as a service: 5 threshold circuits, replay protection, x402 payments per call. **62 tests.**
 - **[attest](https://github.com/mrpkk/attest)** — verification for agent-produced artifacts: schema contract, 23 context-poisoning signatures, signed provenance. Runs in the browser. **316 tests.** [live demo](https://mrpkk.github.io/portfolio/demos/attest/)
 - **[agentpay](https://github.com/mrpkk/agentpay)** — x402 payment layer for AI agents. **160 tests.**
-- **[drift](https://github.com/mrpkk/drift)** — continuous mandate enforcement for AI agents, as an MCP server. Standard library only. **145 tests.**
+- **[drift](https://drift.rta.lat)** — continuous mandate enforcement for AI agents, as an MCP server. **Live at [drift.rta.lat](https://drift.rta.lat)** · [repo](https://github.com/mrpkk/drift). Standard library only. **147 tests.**
 - **[verity](https://github.com/mrpkk/verity)** — registry of verified agent platforms. **56 tests.**
 - **[indra-memory](https://github.com/mrpkk/indra-memory)** — long-term memory for agents between sessions. Pure Python, zero dependencies. **28 tests.**
 
